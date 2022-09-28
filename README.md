@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Code](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)  
+- Solution URL: [GitHub Code](https://github.com/erinczarnecki/FEM_Huddle-Landing-Page)
+- Live Site URL: [Live Site](https://erinczarnecki.github.io/FEM_Huddle-Landing-Page/)  
 
 
 ## My process
